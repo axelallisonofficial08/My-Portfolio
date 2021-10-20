@@ -19,7 +19,7 @@
 * PC Building
 * Desktop Troubleshooting
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e351d3494d/topics/visual-studio-code/visual-studio-code.png" />]
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e351d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
 </br>
 </br>
@@ -35,7 +35,6 @@
 [<img align="left" alt="axelallisonofficial" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icon@v3/icons/linkedin.svg" />] [linkedin]
 </br>
 
-<i class="ri-facebook-fill"></i>
 
   
   
