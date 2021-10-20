@@ -32,10 +32,8 @@
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
 <img align="left" alt="Figma" width="26px" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/figma_logo_icon_147289.png" />
-
 <img align="left" alt="PHP" width="26px" src="https://e7.pngegg.com/pngimages/1/866/png-clipart-microsoft-sql-server-sql-server-management-studio-computer-servers-microsoft-angle-text.png" />
 
-https://e7.pngegg.com/pngimages/1/866/png-clipart-microsoft-sql-server-sql-server-management-studio-computer-servers-microsoft-angle-text.png
 <br />
 
 # Hobbies
