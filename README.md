@@ -28,7 +28,7 @@
 * PC Building
 
 # Contact Me
-[<img align="left" alt="axelallison width="22px" src="https://cdn.jsdelivr.net/npm/simple-icon@v3/icons/linkedin.svg /">] [linkedin]
+[<img align="left" alt="axelallison" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icon@v3/icons/linkedin.svg /">] [linkedin]
 </br>
 
 <i class="ri-facebook-fill"></i>
