@@ -35,6 +35,8 @@
 
 # Contact Me
 [<img align="left" alt="axelallisonofficial" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="axelallisonofficial" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="axelallisonofficial" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][linkedin]
 </br>
 
 
@@ -43,3 +45,4 @@
   
   
 [linkedin]: https://www.linkedin.com/in/axel-allison/
+[facebook]: https://www.facebook.com/profile.php?id=100004519636875
