@@ -27,3 +27,11 @@
 * Swimming
 * PC Building
 
+# Contact Me
+[<img align="left" alt="axelallison width="22px" src="https://cdn.jsdelivr.net/npm/simple-icon@v3/icons/linkedin.svg /">] [linkedin]
+
+  
+  
+  
+  
+[linkedin]: https://www.linkedin.com/in/axel-allison/
